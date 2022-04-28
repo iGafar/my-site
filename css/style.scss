@@ -1,0 +1,17 @@
+$my-color: #f7f7f7;
+
+.block {
+    background: $my-color;
+    &__element1 {
+
+    }
+
+    &__element2 {
+
+    }
+
+    &__elem1, &__elem2 {
+        border: 1px solid #000;
+    }
+}
+

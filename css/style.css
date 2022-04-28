@@ -1,0 +1,8 @@
+.block {
+  background: #f7f7f7;
+}
+
+.block__elem1, .block__elem2 {
+  border: 1px solid #000;
+}
+/*# sourceMappingURL=style.css.map */
